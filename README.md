@@ -90,6 +90,8 @@ flyrank-assignment1-environment-and-ai-toolchain/
 ├── LICENSE            # Project license
 ├── .gitignore         # Ignored files and folders
 ├── CLAUDE.md          # Stack and conventions (or .cursor/rules/)
+├── docs/
+│   └── assignment1-cursor-screenshot.png
 └── ...
 ```
 
@@ -102,6 +104,12 @@ flyrank-assignment1-environment-and-ai-toolchain/
 ### Assignment status
 
 **Status: Complete** — All deliverables verified. Screenshot of Cursor completing the README critique and repository setup task captured for internship submission.
+
+### AI toolchain verification (screenshot)
+
+Screenshot of **Cursor IDE** completing Assignment 1 tasks — README rewrite, file scaffolding, and GitHub push via the AI assistant:
+
+![Cursor IDE completing Assignment 1 — README critique, repository setup, and GitHub push](docs/assignment1-cursor-screenshot.png)
 
 ---
 
@@ -137,7 +145,7 @@ git commit -m "docs: add README stub and CLAUDE.md conventions"
 git commit -m "docs: apply AI-assisted README improvement"
 ```
 
-> **Note:** Screenshot captured — Cursor AI assistant completing the README critique, file scaffolding, and GitHub push for Assignment 1. Attach with your internship submission.
+> **Note:** Screenshot included in `docs/assignment1-cursor-screenshot.png` and previewed above. Cursor AI assistant completed the README critique, file scaffolding, and GitHub push for Assignment 1.
 
 ---
 
