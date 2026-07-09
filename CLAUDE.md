@@ -67,7 +67,7 @@ git commit -m "docs: apply AI-assisted README improvement"
 - [x] .gitignore
 - [x] CLAUDE.md (this file)
 - [x] Three Conventional Commits
-- [ ] Screenshot of Cursor completing a task (submit separately)
+- [x] Screenshot of Cursor completing a task (captured for submission)
 
 ## Contact
 

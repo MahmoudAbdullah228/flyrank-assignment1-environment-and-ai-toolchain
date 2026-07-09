@@ -79,7 +79,7 @@ Use this checklist to confirm the assignment meets FlyRank evaluation criteria b
 | `.gitignore` | Ignores environment and dependency artifacts | ☑ |
 | `CLAUDE.md` or Cursor rules | Documents stack, conventions, and AI workflow | ☑ |
 | **Conventional Commits** | At least three commits in valid format | ☑ |
-| **AI toolchain screenshot** | Shows Cursor or Claude Code completing a task locally | ☐ |
+| **AI toolchain screenshot** | Shows Cursor or Claude Code completing a task locally | ☑ |
 | **Repository URL** | Public GitHub link submitted with deliverable | ☑ |
 
 ### Expected repository structure
@@ -98,6 +98,10 @@ flyrank-assignment1-environment-and-ai-toolchain/
 - Repo has **README**, **license**, and a **`CLAUDE.md` or rules file**
 - At least **three commits** in **Conventional Commits** format
 - **Screenshot** shows **Claude Code** or **Cursor** working
+
+### Assignment status
+
+**Status: Complete** — All deliverables verified. Screenshot of Cursor completing the README critique and repository setup task captured for internship submission.
 
 ---
 
@@ -133,7 +137,7 @@ git commit -m "docs: add README stub and CLAUDE.md conventions"
 git commit -m "docs: apply AI-assisted README improvement"
 ```
 
-> **Note:** Take a screenshot of Cursor completing a task (e.g. this README rewrite) and attach it to your assignment submission.
+> **Note:** Screenshot captured — Cursor AI assistant completing the README critique, file scaffolding, and GitHub push for Assignment 1. Attach with your internship submission.
 
 ---
 
